@@ -1,1 +1,2 @@
 this is a sample text message.
+another line added
